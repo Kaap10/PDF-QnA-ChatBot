@@ -1,4 +1,4 @@
-# 📚 Intelligent PDF QnA Chatbot
+# PDF QnA Chatbot
 
 A sophisticated conversational agent that allows users to upload PDF documents and receive intelligent, context-aware answers to their questions. This project showcases the power of **Retrieval Augmented Generation (RAG)** for building robust document-based QnA systems.
 
