@@ -1,0 +1,7 @@
+# OpenAI API Configuration
+# Rename this file to .env and replace 'your_openai_api_key_here' with your actual OpenAI API key
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional: Customize model settings
+# OPENAI_MODEL=gpt-3.5-turbo
+# OPENAI_EMBEDDING_MODEL=text-embedding-ada-002 
